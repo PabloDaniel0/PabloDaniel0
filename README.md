@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💻 I’m development in visual basic.net and HTML mainly 
+- 💻 I’m development in visual basic.net and HTML mainly 
 - 🏫 I’m currently learning to develop in CSS, Javascript and C++.
-- 🐱‍💻 My main projects are speed PDF, a pdf reader, which I am working on converting into a PDF editor, and Olmeca HTML, an HTML code editor.
+- 🤴 My main projects are speed PDF, a pdf reader, which I am working on converting into a PDF editor, and Olmeca HTML, an HTML code editor.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
