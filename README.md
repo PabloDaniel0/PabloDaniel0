@@ -2,7 +2,7 @@
 
 - 💻 I’m development in visual basic.net and HTML mainly 
 - 🏫 I’m currently learning to develop in CSS, Javascript and C++.
-- ✍️ My main projects are speed PDF, a pdf reader, which I am working on converting into a PDF editor, and Olmeca HTML, an HTML code editor.
+- ✍️ My main projects are speed PDF, a pdf reader, which I am working on converting into a PDF editor, and Weblive, an HTML code editor.
 - 🤔 I am looking for help to make an HTML code editor, developed in visual basic, that has syntax highlighting and autocompletion.
 - ⚡ Fun fact:my first contact with programming was Javascript, but the first language I learned was Visual Basic.
 
