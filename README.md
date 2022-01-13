@@ -9,4 +9,8 @@
 ![PabloDaniel0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablodaniel0&show_icons=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58)
 
 ![PabloDaniel0's Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PabloDaniel0&show_owner=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58)
-* [**Lichess**](https://lichess.org/@/PabloDaniel0)
+
+<center>
+  <img src="https://github-profile-trophy.vercel.app/?username=PabloDaniel0&theme=onedark&no-bg=true">
+
+<a href="https://lichess.org/@/PabloDaniel0">Lichess</a>
